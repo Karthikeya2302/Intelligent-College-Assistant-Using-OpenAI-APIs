@@ -43,7 +43,7 @@ process.
  - Add the following line to the `.env` file, replacing `YOUR_API_KEY` with your actual
  - OpenAI API key:
  ```
-OPENAI_API_KEY=YOUR_API_KEY
+OPENAI_API_KEY= "YOUR_API_KEY"
  ```
  - Save the `.env` file.
  - 
