@@ -3,8 +3,11 @@ The project aims to develop an intelligent chatbot system integrated with the co
 
 # SOFTWARE REQUIRMENTS
   ●	Operating System: Windows , macOS, or Linux
+  
   ●	Python: Version 3.7 or higher
+  
   ●	Integrated Development Environment (IDE): Visual Studio Code or any preferred Python IDE
+  
   ●	Dependencies:
       ➢	streamlit
       ➢	python-dotenv
