@@ -19,6 +19,9 @@ The project aims to develop an intelligent chatbot system integrated with the co
 
 ![image](https://github.com/Karthikeya2302/Intelligent-College-Assistant-Using-OpenAI-APIs/assets/130597328/c72fb0fd-bf8b-49cc-9aa3-8a6edba198f8)
 
+![image](https://github.com/Karthikeya2302/Intelligent-College-Assistant-Using-OpenAI-APIs/assets/130597328/3b1ca953-ca17-4506-af8b-29e7f736a4ae)
+
+
 # DEVELOPMENT ENVIRONMENT SETTING
 To set up the development environment for the intelligent college assistant chatbot 
 system, follow these steps:
