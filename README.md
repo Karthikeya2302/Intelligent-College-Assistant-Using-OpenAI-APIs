@@ -46,7 +46,7 @@ process.
 OPENAI_API_KEY= "YOUR_API_KEY"
  ```
  - Save the `.env` file.
- - 
+   
 4. Environment Setup Verification:
  - Run the following command to verify that the development environment is set up correctly:
  ```
