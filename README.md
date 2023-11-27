@@ -34,6 +34,7 @@ system, follow these steps:
  - Run the installer and follow the on-screen instructions to complete the installation.
  - Make sure to select the option to add Python to the system PATH during the installation 
 process.
+
 2. Install Required Packages:
  - Open a command prompt or terminal.
  - Navigate to the project directory using the `cd` command.
@@ -42,6 +43,7 @@ process.
  pip install streamlit dotenv PyPDF2 langchain
  ```
  This will install the required packages for running the chatbot system.
+ 
 3. API Configurations:
  - Obtain an OpenAI API key by signing up for an account on the OpenAI website.
  - Create a file named `.env` in the project directory.
@@ -51,6 +53,7 @@ process.
 OPENAI_API_KEY=YOUR_API_KEY
  ```
  - Save the `.env` file.
+ - 
 4. Environment Setup Verification:
  - Run the following command to verify that the development environment is set up correctly:
  ```
@@ -58,6 +61,7 @@ OPENAI_API_KEY=YOUR_API_KEY
  ```
  - If the development environment is properly configured, the chatbot system will start 
 running and can be accessed through the provided URL.
+
 By following these steps, we can successfully set up the development environment for the 
 intelligent college assistant chatbot system.
 
