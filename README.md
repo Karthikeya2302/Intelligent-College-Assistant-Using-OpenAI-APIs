@@ -11,17 +11,11 @@ The project aims to develop an intelligent chatbot system integrated with the co
   ●	Dependencies:
   
       ➢	streamlit
-      
       ➢	python-dotenv
-      
       ➢	PyPDF2
-      
-      ➢	langchain
-
+      ➢	langchai
       ➢	numpy
-      
       ➢	faiss-cpu
-      
       ➢	OpenAI API
 
 ![image](https://github.com/Karthikeya2302/Intelligent-College-Assistant-Using-OpenAI-APIs/assets/130597328/c72fb0fd-bf8b-49cc-9aa3-8a6edba198f8)
