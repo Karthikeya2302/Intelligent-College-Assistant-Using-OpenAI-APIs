@@ -9,7 +9,6 @@ The project aims to develop an intelligent chatbot system integrated with the co
   ●	Integrated Development Environment (IDE): Visual Studio Code or any preferred Python IDE
   
   ●	Dependencies:
-  
       ➢	streamlit
       ➢	python-dotenv
       ➢	PyPDF2
