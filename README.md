@@ -65,3 +65,4 @@ running and can be accessed through the provided URL.
 By following these steps, we can successfully set up the development environment for the 
 intelligent college assistant chatbot system.
 
+"To customize the chat bot with your own information, simply substitute the existing data files in the data folder with your personal data."
